@@ -17,7 +17,9 @@ function setup() {
   myMap = mappa.tileMap(options);
   myMap.overlay(canvas);
   airports = loadTable('airports.csv','csv','header');
-    text = ("Airports I've visited", 20,20)
+    text = ("Airports I've visited", 20,20);
+    textSize = 48;
+    color = '#fff';
 }
 
 function draw() {
