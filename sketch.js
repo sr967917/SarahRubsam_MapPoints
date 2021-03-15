@@ -3,7 +3,7 @@ const key = 'pk.eyJ1Ijoic3I5Njc5MTciLCJhIjoiY2ttMHRuM2E1MWF2ejJ1cWV1a2IxYWtqdiJ9
 const options = {
   lat: 39.3292,
   lng: -82.1013,
-  zoom: 25,
+  zoom: 4,
   style: 'mapbox://styles/sr967917/ckm0tg6xr9kgt17lkigwfyk0x',
   pitch: 0,
 };
